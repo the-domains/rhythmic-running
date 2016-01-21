@@ -1,0 +1,28 @@
+name: Rhythmic Running
+favicon: null
+layout_spectrum: 0.8809084189124405
+typography_spectrum: 0.8460845190566033
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4705930722411722
+  lightness: 0.16352378763258457
+  saturation: 0.007628076709806919
+  rhythmicContrast: 0.17870443291030824
+purpose: []
