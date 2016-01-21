@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rhythmic Running]]></title>
         <description><![CDATA[Rhythmic Running]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rhythmic-running/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 21 Jan 2016 22:50:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/rhythmic-running/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Meditate - How to Meditate]]></title>
+            <description><![CDATA[<article><h1>How to Meditate - How to Meditate</h1><p>With the hectic pace and demands of modern life, many people feel stressed and over-worked. It often feels like there is just not enough time in the day to get everything done. Our stress and tiredness make us unhappy, impatient and frustrated. It can even affect our health.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0cd457b9739f1cb52ed8414aef122b30601770a.jpg"></article>]]></description>
+            <link>http://www.how-to-meditate.org/</link>
+            <guid isPermaLink="false">11b4589a-c5f4-49c2-abf5-14f4b7d4d4d9</guid>
+            <pubDate>Thu, 21 Jan 2016 22:50:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTT2dxXk5PysibdpbpBoW_vXwgSNkrHpxuQ1q9K_4AmzRaacY3i">]]></description>
-            <link>undefinede4123b56-fb2f-4bdd-b317-f2fe5c9db803/index.html</link>
+            <link>https://thegrid.ai/rhythmic-running/e4123b56-fb2f-4bdd-b317-f2fe5c9db803/index.html</link>
             <guid isPermaLink="false">e4123b56-fb2f-4bdd-b317-f2fe5c9db803</guid>
             <pubDate>Thu, 21 Jan 2016 22:50:33 GMT</pubDate>
         </item>
