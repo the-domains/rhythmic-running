@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-04T11:28:30.073Z'
-dateModified: '2016-02-04T11:28:03.261Z'
+datePublished: '2016-02-04T11:57:56.801Z'
+dateModified: '2016-02-04T11:57:54.050Z'
 title: Rhythmic Running and the Disconnected State
 author: []
 sourcePath: _posts/2016-01-21-rhythmic-running-and-the-disconnected-state.md
