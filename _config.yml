@@ -1,6 +1,6 @@
 name: Rhythmic Running
 favicon: null
-layout_spectrum: 0.24428
+layout_spectrum: 0.40687
 typography_spectrum: 0.31523
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#8aaf45'
-    - '#295500'
-    - '#678a36'
-    - '#bbd896'
-    - '#112600'
-  brandStrength: 0.1875
-  lightness: 0.1875
-  saturation: 0.1875
-  rhythmicContrast: 0.75
+    - '#ffffff'
+    - '#b39002'
+    - '#d2b60c'
+    - '#efd21c'
+    - '#efdc91'
+  brandStrength: 0.3125
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
